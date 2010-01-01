@@ -1,0 +1,4 @@
+*.o
+temp
+.DS_Store
+*.swp
